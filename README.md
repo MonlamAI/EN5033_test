@@ -1,6 +1,6 @@
-# EN0000 _Book name_
+# EN5033 The Theory and Practice of Other Emptiness Taught Through Milarepa’s Songs
 
-- Data collector: @username
-- PR reviewer: @username
-- Estimated time: 0:00 hours
+- Data collector: @tseten57
+- PR reviewer: @Wangchuk2023
+- Estimated time: 3:00 hours
 - Time taken: 0:00 hours
